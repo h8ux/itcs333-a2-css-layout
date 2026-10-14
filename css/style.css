@@ -57,6 +57,9 @@
     .card-grid {
         flex-direction: column;
     }
+    .card {
+        flex: 1 1 100%; 
+    }
 }
 
 
